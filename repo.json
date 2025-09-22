@@ -1,7 +1,14 @@
 {
-  "name": "Pyoncord App Repo",
-  "identifier": "io.github.pyoncord.repo",
-  "iconURL": "https://pyoncord.github.io/assets/icon-altstore.png",
+  "name": "Dan's Workshop Beta",
+  "subtitle": "All my mods in one place",
+  "description": "Welcome to the official AltStore repository of Dan's Workshop!\n\nHere, you can explore and download all of my free tweaked apps.",
+  "iconURL": "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/icon.png",
+  "headerURL": "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/header.png",
+  "website": "https://patreon.com/dayanch96",
+  "tintColor": "#E36678",
+  "featuredApps": [
+    "com.google.ios.youtube"
+  ],
   "apps": [
     {
       "name": "Bunny",
@@ -20,7 +27,63 @@
         }
       ],
       "appPermissions": {}
+    },
+    {
+      "name": "YouTube Plus",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "developerName": "dayanch96",
+      "subtitle": "YouTube Plus with additional tweaks",
+      "localizedDescription": "This version contains YouTube Plus, YouPiP, YTUHD, Return YouTube Dislikes and Open in Safari extension\n\nFeatures:\n- Download videos, audio (including audio track selection), thumbnails, posts, and profile pictures\n- Copy video, comment, and post information\n- Interface customization: Remove feed elements, reorder tabs, enable OLED mode, and as use Shorts-only mode\n- Player settings: Gestures, default quality, preferred audio track\n- Save, Load and Restore settings. Clear cache once or automatically on app startup\n- Built-in SponsorBlock\n- And much, much more\n\nYouTube Plus preferences can be found in the YouTube settings",
+      "iconURL": "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/icon.png",
+      "tintColor": "#E36678",
+      "screenshots": [
+        "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr1.jpg",
+        "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr2.jpg",
+        "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr3.jpg",
+        "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr4.jpg",
+        "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr5.jpg",
+        "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr6.jpg",
+        "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr7.jpg",
+        "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr8.jpg",
+        "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr9.jpg"
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "application-identifier",
+          "aps-environment",
+          "com.apple.developer.associated-domains",
+          "com.apple.developer.coremedia.allow-alternate-video-decoder-selection",
+          "com.apple.developer.device-information.user-assigned-device-name",
+          "com.apple.developer.group-session",
+          "com.apple.developer.networking.multicast",
+          "com.apple.developer.networking.wifi-info",
+          "com.apple.developer.siri",
+          "com.apple.developer.usernotifications.time-sensitive",
+          "com.apple.security.application-groups",
+          "keychain-access-groups"
+        ],
+        "privacy": {
+          "NSCameraUsageDescription": "This lets you create videos using the app.",
+          "NSUserTrackingUsageDescription": "To personalize ads and provide ad measurement, YouTube will link activity from this app with activity from non-Google apps and websites.",
+          "NSBluetoothPeripheralUsageDescription": "YouTube needs bluetooth access to scan for nearby Cast devices.",
+          "NSLocalNetworkUsageDescription": "Access to your network allows YouTube to discover and connect to devices such as your TV.",
+          "NSAppleMusicUsageDescription": "This lets you add your own audio files to your videos.",
+          "NSMicrophoneUsageDescription": "This lets you include audio with your videos and search using your voice.",
+          "NSLocationWhenInUseUsageDescription": "Makes it easier for you to attach location information to your videos and live streams and allows for features such as improved recommendations and ads.",
+          "NSContactsUsageDescription": "Your contacts will be sent to YouTube servers to help you find friends to share videos with.",
+          "NSPhotoLibraryUsageDescription": "This lets you upload media you've already created."
+        }
+      },
+      "versions": [
+        {
+          "version": "20.28.2",
+          "minOSVersion": "16.0",
+          "date": "2025-07-18T19:47:00+03:00",
+          "size": 120634339,
+          "downloadURL": "https://github.com/areogc/YTLite/releases/download/v0.0.1/ytpt.ipa",
+          "localizedDescription": "YouTube Plus v5.2b1\n\n    Completely rewritten downloader mechanism\n    Added multi-download support\n    Added video resumption (for now, you’ll need to disable automatic cache clearing and download video in the same quality)\n    Added support for multiple toasts at the same time. You can rotate them by tapping on them\n    Added the ability to hide the download progress with a long press on the \"Stop\" button\n    Added the option to hide the \"Create Remix\" and \"Listen to in YouTube Music\" buttons in the video menu\n    Added the ability to reorder videos in all sorting types of playlists (YouTube removed this feature)\n    Added options to Save, Share and Copy image from Image viewer\n    Now, a long press on the first tab of the tab bar opens Tab settings instead of showing/hiding the Library tab\n    Fixed a bug that prevented hiding the Home tab\n    Fixed a bug with the black Premium logo\n    Fixed a bug with a black background in saved posts\n    Fixed a bug where SponsorBlock notifications were not showing\n    Fixed a bug with Shorts, removed new ads\n    Removed even more ads\n    Fixed remember loop\n    Fixed captions and audio-tracks selection on newest YT versions\n    Other minor fixes and improvements"
+        }
+      ]
     }
-  ],
-  "news": []
+  ]
 }
