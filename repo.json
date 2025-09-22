@@ -1,13 +1,11 @@
 {
-  "name": "Dan's Workshop Beta",
-  "subtitle": "All my mods in one place",
-  "description": "Welcome to the official AltStore repository of Dan's Workshop!\n\nHere, you can explore and download all of my free tweaked apps.",
-  "iconURL": "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/icon.png",
-  "headerURL": "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/header.png",
-  "website": "https://patreon.com/dayanch96",
+  "name": "Raven's Repo",
+  "subtitle": "Custom Discord + Youtube",
+  "description": "Welcome to the official AltStore repository of Raven's!\n\nHere, you can explore and download all of my tweaked apps.",
   "tintColor": "#E36678",
   "featuredApps": [
-    "com.google.ios.youtube"
+    "com.google.ios.youtube",
+    "com.hammerandchisel.discord"
   ],
   "apps": [
     {
