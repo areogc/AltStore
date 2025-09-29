@@ -31,9 +31,9 @@
       "name": "Amethyst",
       "bundleIdentifier": "org.angelauramc.amethyst",
       "developerName": "Angel MC",
-      "iconURL": "https://pyoncord.github.io/assets/icon-altstore.png",
-      "localizedDescription": "A minecraft launcher",
-      "subtitle": "A minecraft launcher",
+      "iconURL": "https://github.com/areogc/AltStore/blob/main/minecraft.png",
+      "localizedDescription": "A Minecraft: Java Edition Launcher for Android and iOS based on PojavLauncher.",
+      "subtitle": "A Minecraft: Java Edition Launcher for Android and iOS based on PojavLauncher.",
       "tintColor": "7289da",
       "versions": [
         {
