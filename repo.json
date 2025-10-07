@@ -1,8 +1,8 @@
 {
   "name": "Raven's Repo",
-  "subtitle": "Custom Discord + Youtube + Minecraft Launcher",
-  "description": "Welcome to the official repository of Raven's!\n\nHere, you can explore and download all of my tweaked apps.",
-  "tintColor": "#4A90EF",
+  "subtitle": "Custom Discord + Youtube",
+  "description": "Welcome to the official repository of Raven's!\n\nHere, you can explore and download all of my modified apps.",
+  "tintColor": "#4A90E2",
   "featuredApps": [
     "com.google.ios.youtube",
     "com.hammerandchisel.discord"
@@ -29,7 +29,7 @@
     {
       "name": "YouTube Plus",
       "bundleIdentifier": "com.google.ios.youtube",
-      "developerName": "dayanch96",
+      "developerName": "Dayanch96",
       "subtitle": "YouTube Plus with additional tweaks",
       "localizedDescription": "This version contains YouTube Plus, YouPiP, YTUHD, Return YouTube Dislikes and Open in Safari extension\n\nFeatures:\n- Download videos, audio (including audio track selection), thumbnails, posts, and profile pictures\n- Copy video, comment, and post information\n- Interface customization: Remove feed elements, reorder tabs, enable OLED mode, and as use Shorts-only mode\n- Player settings: Gestures, default quality, preferred audio track\n- Save, Load and Restore settings. Clear cache once or automatically on app startup\n- Built-in SponsorBlock\n- And much, much more\n\nYouTube Plus preferences can be found in the YouTube settings",
       "iconURL": "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/icon.png",
