@@ -9,6 +9,24 @@
   ],
   "apps": [
     {
+      "name": "Amethyst",
+      "bundleIdentifier": "org.angelauramc.amethyst",
+      "developerName": "Angel MC",
+      "iconURL": "https://github.com/areogc/AltStore/blob/main/minecraft.png",
+      "localizedDescription": "A Minecraft: Java Edition Launcher for Android and iOS based on PojavLauncher.",
+      "subtitle": "A Minecraft: Java Edition Launcher for Android and iOS based on PojavLauncher.",
+      "tintColor": "7289da",
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "2025-09-29",
+          "size": 150713835,
+          "downloadURL": "https://github.com/areogc/AltStore/releases/download/1.0.0/Amethyst.ipa"
+        }
+      ],
+      "appPermissions": {}
+    },
+    {
       "name": "Bunny",
       "bundleIdentifier": "com.hammerandchisel.discord",
       "developerName": "Pylix",
