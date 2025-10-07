@@ -5,8 +5,7 @@
   "tintColor": "#E36678",
   "featuredApps": [
     "com.google.ios.youtube",
-    "com.hammerandchisel.discord",
-    "org.angelauramc.amethyst"
+    "com.hammerandchisel.discord"
   ],
   "apps": [
     {
@@ -23,24 +22,6 @@
           "date": "2025-08-25",
           "size": 93906534,
           "downloadURL": "https://github.com/areogc/AltStore/releases/download/1.0.0/Bunny.ipa"
-        }
-      ],
-      "appPermissions": {}
-    },
-    {
-      "name": "Amethyst",
-      "bundleIdentifier": "org.angelauramc.amethyst",
-      "developerName": "Angel MC",
-      "iconURL": "https://github.com/areogc/AltStore/blob/main/minecraft.png",
-      "localizedDescription": "A Minecraft: Java Edition Launcher for Android and iOS based on PojavLauncher.",
-      "subtitle": "A Minecraft: Java Edition Launcher for Android and iOS based on PojavLauncher.",
-      "tintColor": "7289da",
-      "versions": [
-        {
-          "version": "1.0",
-          "date": "2025-09-29",
-          "size": 150713835,
-          "downloadURL": "https://github.com/areogc/AltStore/releases/download/1.0.0/Amethyst.ipa"
         }
       ],
       "appPermissions": {}
@@ -93,14 +74,12 @@
       },
       "versions": [
         {
-          "version": "20.28.2",
+          "version": "20.40.4",
           "minOSVersion": "16.0",
-          "date": "2025-07-18T19:47:00+03:00",
-          "size": 120634339,
-          "downloadURL": "https://github.com/areogc/YTLite/releases/download/v0.0.1/ytpt.ipa",
-          "localizedDescription": "YouTube Plus v5.2b1\n\n    Completely rewritten downloader mechanism\n    Added multi-download support\n    Added video resumption (for now, you’ll need to disable automatic cache clearing and download video in the same quality)\n    Added support for multiple toasts at the same time. You can rotate them by tapping on them\n    Added the ability to hide the download progress with a long press on the \"Stop\" button\n    Added the option to hide the \"Create Remix\" and \"Listen to in YouTube Music\" buttons in the video menu\n    Added the ability to reorder videos in all sorting types of playlists (YouTube removed this feature)\n    Added options to Save, Share and Copy image from Image viewer\n    Now, a long press on the first tab of the tab bar opens Tab settings instead of showing/hiding the Library tab\n    Fixed a bug that prevented hiding the Home tab\n    Fixed a bug with the black Premium logo\n    Fixed a bug with a black background in saved posts\n    Fixed a bug where SponsorBlock notifications were not showing\n    Fixed a bug with Shorts, removed new ads\n    Removed even more ads\n    Fixed remember loop\n    Fixed captions and audio-tracks selection on newest YT versions\n    Other minor fixes and improvements"
-        }
-      ]
+          "date": "2025-10-07T16:16:24Z",
+          "size": 122124550,
+          "downloadURL": "https://github.com/areogc/YTLite/releases/download/ytp-5/YouTubePlus_5.2b3.ipa",
+          "localizedDescription": "YouTube Plus v5.2b3\n\nAttempts to fix playback issues on sideload"
     }
   ]
 }
