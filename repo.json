@@ -12,7 +12,7 @@
       "name": "Amethyst",
       "bundleIdentifier": "org.angelauramc.amethyst",
       "developerName": "Angel MC",
-      "iconURL": "https://github.com/areogc/AltStore/blob/main/minecraft.png",
+      "iconURL": "https://raw.githubusercontent.com/areogc/AltStore/refs/heads/main/minecraft.png",
       "localizedDescription": "A Minecraft: Java Edition Launcher for Android and iOS based on PojavLauncher.",
       "subtitle": "A Minecraft: Java Edition Launcher for Android and iOS based on PojavLauncher.",
       "tintColor": "7289da",
