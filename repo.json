@@ -2,7 +2,7 @@
   "name": "Raven's Repo",
   "subtitle": "Custom Discord + Youtube + Minecraft Launcher",
   "description": "Welcome to the official repository of Raven's!\n\nHere, you can explore and download all of my tweaked apps.",
-  "tintColor": "#E36678",
+  "tintColor": "#4A90E2",
   "featuredApps": [
     "com.google.ios.youtube",
     "com.hammerandchisel.discord"
@@ -35,15 +35,15 @@
       "iconURL": "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/icon.png",
       "tintColor": "#E36678",
       "screenshots": [
-        "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr1.jpg",
-        "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr2.jpg",
-        "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr3.jpg",
-        "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr4.jpg",
-        "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr5.jpg",
-        "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr6.jpg",
-        "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr7.jpg",
-        "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr8.jpg",
-        "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr9.jpg"
+        "https://raw.githubusercontent.com/areogc/YTLite/refs/heads/main/Resources/scr1.jpg",
+        "https://raw.githubusercontent.com/areogc/YTLite/refs/heads/main/Resources/scr2.jpg",
+        "https://raw.githubusercontent.com/areogc/YTLite/refs/heads/main/Resources/scr3.jpg",
+        "https://raw.githubusercontent.com/areogc/YTLite/refs/heads/main/Resources/scr4.jpg",
+        "https://raw.githubusercontent.com/areogc/YTLite/refs/heads/main/Resources/scr5.jpg",
+        "https://raw.githubusercontent.com/areogc/YTLite/refs/heads/main/Resources/scr6.jpg",
+        "https://raw.githubusercontent.com/areogc/YTLite/refs/heads/main/Resources/scr7.jpg",
+        "https://raw.githubusercontent.com/areogc/YTLite/refs/heads/main/Resources/scr8.jpg",
+        "https://raw.githubusercontent.com/areogc/YTLite/refs/heads/main/Resources/scr9.jpg"
       ],
       "appPermissions": {
         "entitlements": [
@@ -80,6 +80,8 @@
           "size": 122124550,
           "downloadURL": "https://github.com/areogc/YTLite/releases/download/ytp-5/YouTubePlus_5.2b3.ipa",
           "localizedDescription": "YouTube Plus v5.2b3\n\nAttempts to fix playback issues on sideload"
+        }
+      ]
     }
   ]
 }
