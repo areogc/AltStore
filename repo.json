@@ -5,7 +5,7 @@
   "tintColor": "#4A90E2",
   "featuredApps": [
     "com.google.ios.youtube",
-    "com.hammerandchisel.discord"
+    "org.angelauramc.amethyst"
   ],
   "apps": [
     {
@@ -22,24 +22,6 @@
           "date": "2025-09-29",
           "size": 150713835,
           "downloadURL": "https://github.com/areogc/AltStore/releases/download/1.0.0/Amethyst.ipa"
-        }
-      ],
-      "appPermissions": {}
-    },
-    {
-      "name": "Bunny",
-      "bundleIdentifier": "com.hammerandchisel.discord",
-      "developerName": "Pylix",
-      "iconURL": "https://pyoncord.github.io/assets/icon-altstore.png",
-      "localizedDescription": "A client mod for Discord",
-      "subtitle": "A client mod for Discord",
-      "tintColor": "7289da",
-      "versions": [
-        {
-          "version": "294.0",
-          "date": "2025-08-25",
-          "size": 93906534,
-          "downloadURL": "https://github.com/areogc/AltStore/releases/download/1.0.0/Bunny.ipa"
         }
       ],
       "appPermissions": {}
