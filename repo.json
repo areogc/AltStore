@@ -2,7 +2,7 @@
   "name": "Raven's Repo",
   "subtitle": "Custom Discord + Youtube + Minecraft Launcher",
   "description": "Welcome to the official repository of Raven's!\n\nHere, you can explore and download all of my tweaked apps.",
-  "tintColor": "#4A90E2",
+  "tintColor": "#4A90EF",
   "featuredApps": [
     "com.google.ios.youtube",
     "com.hammerandchisel.discord"
