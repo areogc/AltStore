@@ -15,13 +15,14 @@
       "iconURL": "https://raw.githubusercontent.com/areogc/AltStore/refs/heads/main/minecraft.png",
       "localizedDescription": "A Minecraft: Java Edition Launcher for Android and iOS based on PojavLauncher.",
       "subtitle": "A Minecraft: Java Edition Launcher for Android and iOS based on PojavLauncher.",
-      "tintColor": "7289da",
+      "tintColor": "#7289da",
       "versions": [
         {
           "version": "1.0",
           "date": "2025-09-29",
           "size": 150713835,
-          "downloadURL": "https://github.com/areogc/AltStore/releases/download/1.0.0/Amethyst.ipa"
+          "downloadURL": "https://github.com/areogc/Amethyst-iOS/releases/download/1.0.0/Amethyst.ipa",
+          "localizedDescription": "Beta release"
         }
       ],
       "appPermissions": {}
@@ -32,7 +33,7 @@
       "developerName": "Dayanch96",
       "subtitle": "YouTube Plus with additional tweaks",
       "localizedDescription": "This version contains YouTube Plus, YouPiP, YTUHD, Return YouTube Dislikes and Open in Safari extension\n\nFeatures:\n- Download videos, audio (including audio track selection), thumbnails, posts, and profile pictures\n- Copy video, comment, and post information\n- Interface customization: Remove feed elements, reorder tabs, enable OLED mode, and as use Shorts-only mode\n- Player settings: Gestures, default quality, preferred audio track\n- Save, Load and Restore settings. Clear cache once or automatically on app startup\n- Built-in SponsorBlock\n- And much, much more\n\nYouTube Plus preferences can be found in the YouTube settings",
-      "iconURL": "https://raw.githubusercontent.com/areogc/AltStore/refs/heads/main/minecraft.png",
+      "iconURL": "https://raw.githubusercontent.com/areogc/AltStore/refs/heads/main/youtube.png",
       "tintColor": "#E36678",
       "screenshots": [
         "https://raw.githubusercontent.com/areogc/YTLite/refs/heads/main/Resources/scr1.jpg",
